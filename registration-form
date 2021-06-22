@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html> 
+<head>
+    My first website
+</head>
+
+<body>
+    <h1>Registratin Form</h1>
+    <div id="reg-form">
+        <form>
+            <label for="first name">first-name:</label> 
+            <input type="text" name="first-name" placeholder="Obiora" required>
+            <label for="last name">last-name:</label>
+            <input type="text" name="last-name" placeholder="Nwachukwu" required>
+
+
+            <div>
+                <label for="gender-male">Male</label>
+                <input type="radio" name="gender-male" value="choice-1">
+                <label for="gender-female">Female</label>
+                <input type="radio" name="gender-Female" value="choice-2">
+            </div>
+
+
+
+        </form>
+
+    </div>
+
+
+
+
+
+
+
+
+
+
+</body>
+
+
+
+
+</html>
